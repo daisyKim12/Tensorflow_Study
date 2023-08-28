@@ -19,11 +19,13 @@ This project is for collecting ai concept while doing TF projects
 **Topics Covered:**
 - SGD
 - ADAM
-- L1, L2, Huber loss funtion
+- L1, L2, Huber loss function
+- cross entropy loss function
 - FC(=Fully Connected Layer)
 - CNN
 - RNN
 - VCC16
+- Transfer Learning
 - Train/Validation data
 - Overfit, Underfit
 - Activation Functions
