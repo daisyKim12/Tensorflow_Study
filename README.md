@@ -9,30 +9,32 @@ This repository is for preparing TF Certificate Exam.
 
 ## Table of Contents
 
-1. [Background: AI Basic Contept](#Background: AI Basic Contept)
-2. [TFDS: Tensorflow Dataset](#TFDS: Tensorflow Dataset)
-3. [TF Certification Practice](#TF Certification Practice)
+1. [Background](#Background)
+2. [Using_Dataset](#Using_Dataset)
+3. [TF_Certification_Practice](#TF_Certification_Practice)
 
-## Background: AI Basic Contept
+## background
 This project is for collecting ai concept while doing TF projects
 
 **Topics Covered:**
-- Dense Layers
-- Train/Validation Set Splitting
-- ModelCheckpoint
-- Image Data Preprocessing
+- SGD
+- ADAM
+- L1, L2, Huber loss funtion
+- FC(=Fully Connected Layer)
+- CNN
+- RNN
+- VCC16
+- Train/Validation data
+- Overfit, Underfit
 - Activation Functions
-- Output Layer Configuration
-- Convolutional Neural Networks (CNNs)
-- ImageDataGenerator
-
-## TFDS: Tensorflow Dataset
-This folder is collection of Tensorflow dataset used projects
+- 
+## Using_Dataset
+This folder is collection of datasets and how to use them
 
 **Topics Covered:**
-- beans
+- TFDS(Tensorflow Datasets)
 
-## TF Certification Practice
+## TF_Certification_Practice
 This folder is collection of Tensorflow Certification preparation
 
 **Catagory:**\
