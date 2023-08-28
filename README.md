@@ -39,9 +39,10 @@ This folder is collection of Tensorflow Certification preparation
 
 **Catagory:**\
 `C1`: Basic Modeling\
-`C2`: Image Classification\
-`C3`: NLP\
-`C4`: Time Series Analysis\
+`C2`: Image Classification Using FC\
+`C3`: Image Classification Using CNN\
+`C4`: NLP\
+`C5`: Time Series Analysis\
 
 
 
