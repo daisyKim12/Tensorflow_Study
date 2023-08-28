@@ -42,3 +42,11 @@ This folder is collection of Tensorflow Certification preparation
 `C2`: Image Classification\
 `C3`: NLP\
 `C4`: Time Series Analysis\
+
+
+
+numpy
+shape()
+.min .max
+
+matplot
