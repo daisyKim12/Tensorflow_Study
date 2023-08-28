@@ -27,7 +27,9 @@ This project is for collecting ai concept while doing TF projects
 - Train/Validation data
 - Overfit, Underfit
 - Activation Functions
-- 
+- One Hot Encoding
+
+
 ## Using_Dataset
 This folder is collection of datasets and how to use them
 
