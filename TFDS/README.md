@@ -1,6 +1,10 @@
 # TFDS
 This folder contains projects with Tensorflow Datasets
 
+## Dataset Covered
+1. Image classification
+   - [beans](https://www.tensorflow.org/datasets/catalog/beans?hl=ko)
+
 ## Using TensorFlow Datasets
 
 One can use the data set tensorflow provides in the link below
@@ -15,6 +19,8 @@ import tensorflow_datasets as tfds
 ds = tfds.load('mnist', split='train', shuffle_files=True)
 ```
 
-## Dataset Covered
-1. Image classification
-   - [beans](https://www.tensorflow.org/datasets/catalog/beans?hl=ko)
+## tfds.load()
+[tfds.load()](https://www.tensorflow.org/datasets/api_docs/python/tfds/load)
+
+## tf.image.resize()
+[tf.image.resize()](https://www.tensorflow.org/api_docs/python/tf/image/resize)
