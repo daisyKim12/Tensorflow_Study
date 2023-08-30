@@ -14,3 +14,18 @@
 - split RGB channel
 - merging images
 - filter
+
+## OpenCV
+- Open Source Computer Vision Library
+- Open source library for computer vision
+
+**content covered**
+- open by OpenCV
+- PIL numpy conversion
+
+## Deep Learning
+
+**content covered**
+- machine learning
+- neural network
+- deep learning network
