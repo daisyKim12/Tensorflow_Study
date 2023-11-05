@@ -3,6 +3,9 @@
 Welcome to **Daisy's TF Study** repository!
 This repository is for preparing TF Certificate Exam.
 
+## Certification
+![](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/80874481)
+
 ## Study Schedule
 `starting date`:  2023/08/18   
 `ending date`  :  2023/08/29
@@ -48,10 +51,3 @@ This folder is collection of Tensorflow Certification preparation
 `C4`: NLP\
 `C5`: Time Series Analysis\
 
-
-
-numpy
-shape()
-.min .max
-
-matplot
